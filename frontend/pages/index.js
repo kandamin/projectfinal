@@ -68,7 +68,7 @@ import Link from 'next/link'
         <Navbar />
         <br></br>
 
-        <h1>LittlepigShop</h1>
+        <h1>TANYONG SEAFOOD</h1>
         <h1>welcome</h1>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
