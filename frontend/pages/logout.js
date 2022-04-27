@@ -28,7 +28,7 @@ export default function Logout({ token }) {
             </Head>
             <div className={styles.container}>
                 <Navbar />
-                <h1>Logout</h1>
+                <h1>ออกจากระบบ</h1>
                 <div>
                     <h2><Link href="/"><a> {status} </a></Link>  </h2>
                 </div>

@@ -74,7 +74,7 @@ import Link from 'next/link'
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
 
 
-        <img  src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.6435-9/p843x403/175096253_2893848187520098_2695457136069938488_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=MhrCpVD3CUsAX8matxO&_nc_ht=scontent.fbkk14-1.fna&tp=6&oh=206d6df77fa83dcbf9f47a6477fb2698&oe=60A32CB6" alt="Trulli" width="500" height="500"></img>
+        <img  src="https://i.pinimg.com/564x/11/3a/e5/113ae5a180b6fc7990d8f1a49d1da1fb.jpg" alt="Trulli" width="500" height="500"></img>
 <p>
         <a href="https://www.facebook.com/"><img  src="https://i.pinimg.com/564x/8e/4d/e1/8e4de115653dbdb20efa34b9d5dcec35.jpg"  width="50" height="50" ></img></a>
 

@@ -42,7 +42,7 @@ const Navbar = () => (
                   </div>
                </li>
                <li class="nav-item">
-                  <Link href="/logout"><a class="nav-link active"> Logout </a></Link>
+                  <Link href="/logout"><a class="nav-link active">ออกจากระบบ</a></Link>
                </li>
             </ul>
          </div>
