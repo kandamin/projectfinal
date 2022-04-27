@@ -61,7 +61,7 @@ const SWR2 = () => {
     return (<div className={styles.container}>
         <Navbar />
         
-        <h1>Littelpig shop</h1>
+        <h1>TANYONG SEAFOOD</h1>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
         <ul className={styles.list} >{printshops()}</ul>

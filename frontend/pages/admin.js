@@ -119,7 +119,7 @@ const SWR1 = () => {
         <h2>Income:{printIncome()}</h2>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
-        <h2>Littelpig Shop</h2>
+        <h2>TANYONG SEAFOOD</h2>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
 

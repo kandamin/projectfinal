@@ -5,9 +5,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 60px solid #FA8072;
-    background-image : url("https://i.pinimg.com/originals/e2/b8/2a/e2b82aded815e80351b929a77519adaa.jpg");
-  color: orangered;
+    border: 60px solid #FFE5B4;
+    background-image : url("https://i.pinimg.com/564x/6a/df/aa/6adfaa7c7675e844b35df4db157ac751.jpg");
+  color: whitesmoke;
   }
   
 
@@ -28,13 +28,13 @@
     flex-direction: column;
     margin: 20px;
     padding: 5px;
-    border: 20px solid #FA8072;
+    border: 20px solid #d3ec98;
     font-size: 1.4rem;
     text-align: center;
   }
   
   .byttonupdate{
-    background-color: #BF0A30;
+    background-color: #d34e6a;
     border-radius: 10%;
     border: none;
     color:#FFE5B4;

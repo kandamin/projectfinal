@@ -62,7 +62,7 @@ import Link from 'next/link'
   return (
     <Layout>
     <Head>
-        <title>First Page</title>
+        <title>Home Page</title>
     </Head>
     <div className={styles.container}>
         <Navbar />
@@ -76,12 +76,12 @@ import Link from 'next/link'
 
         <img  src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.6435-9/p843x403/175096253_2893848187520098_2695457136069938488_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=MhrCpVD3CUsAX8matxO&_nc_ht=scontent.fbkk14-1.fna&tp=6&oh=206d6df77fa83dcbf9f47a6477fb2698&oe=60A32CB6" alt="Trulli" width="500" height="500"></img>
 <p>
-        <a href="https://www.facebook.com/"><img  src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png"  width="50" height="50" ></img></a>
+        <a href="https://www.facebook.com/"><img  src="https://i.pinimg.com/564x/8e/4d/e1/8e4de115653dbdb20efa34b9d5dcec35.jpg"  width="50" height="50" ></img></a>
 
-        <a href="https://www.instagram.com/littlepig.shopp/?igshid=1oij3vr1kxeu4&fbclid=IwAR04ecKAJjnfKKMAwLHBQ4ckYyFrru4Ksgs4jvIgNvygAtUInAqu18-82Vk">
-          <img  src="https://news.artnet.com/app/news-upload/2018/09/2000px-Instagram_logo_2016.svg_.png"  width="50" height="50" ></img></a>      
+        <a href="https://www.instagram.com/">
+          <img  src="https://i.pinimg.com/564x/77/02/ad/7702ad7624932f6d1ea20022c4002b67.jpg"  width="50" height="50" ></img></a>      
 
-          <a href="https://line.me/R/ti/p/%40zhv2221x"><img  src="https://cdn.icon-icons.com/icons2/846/PNG/512/Line_icon-icons.com_67183.png"  width="50" height="50" ></img></a>   
+          <a href="https://line.me/R/ti/p/%40zhv2221x"><img  src="https://i.pinimg.com/564x/d4/3d/38/d43d38144d427db1a75973a213678fba.jpg"  width="50" height="50" ></img></a>   
         </p>
         
         
